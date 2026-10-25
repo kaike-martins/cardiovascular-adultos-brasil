@@ -2,6 +2,13 @@
 
 Análise epidemiológica completa sobre a mortalidade por doenças do aparelho circulatório em adultos de 15 a 64 anos no Brasil, cobrindo o período de 2010 a 2023. O projeto foi desenvolvido como atividade acadêmica no curso de Ciência de Dados da FMU São Paulo, sob orientação da Profa. Luciana Lugli, e resultou em convite para co-autoria em artigo científico.
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Fonte](https://img.shields.io/badge/Fonte-SIM%2FDATASUS-4B1D72?style=flat-square)
+
 ---
 
 ## 📋 Contexto
